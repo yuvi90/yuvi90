@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Javascript, React.**
 
-- 👨‍💻 All of my projects are available at [here](here)
+- 👨‍💻 All of my projects are available at [here](#)
 
-- 📄 Know about my experiences [here](here)
+- 📄 Know about my experiences [here](#)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
