@@ -10,7 +10,7 @@
 
 <!-- 💬 Ask me about **Javascript, React.** -->
 
-- 👨‍💻 All of my projects are available at [here](#)
+- 👨‍💻 All of my projects are available at [here](#).
 
 <!-- - 📄 Know about my experiences [here](#) -->
 
