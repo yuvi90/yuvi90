@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Backend Development.**
 
-- 💬 Ask me about **Javascript, React.**
+#- 💬 Ask me about **Javascript, React.**
 
 - 👨‍💻 All of my projects are available at [here](#)
 
