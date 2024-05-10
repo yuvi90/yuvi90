@@ -1,6 +1,6 @@
 <!-- ![Header](./github-header.png) -->
 <h1 align="center">Hi 👋, I'm Yuvraj</h1>
-<h3 align="center">Web developer from India.</h3>
+<h3 align="center">Full-stack developer from India.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yuvi90&label=Profile%20views&color=0e75b6&style=flat" alt="yuvi90" /> </p>
 
@@ -10,11 +10,11 @@
 
 <!-- 💬 Ask me about **Javascript, React.** -->
 
-- 👨‍💻 All of my projects are available at [here](#).
+<!-- - 👨‍💻 All of my projects are available at [here](#). -->
 
 <!-- - 📄 Know about my experiences [here](#) -->
 
-- ⚡ Fun fact **I think I am funny. 😅**
+<!-- - ⚡ Fun fact **I think I am funny. 😅** -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
